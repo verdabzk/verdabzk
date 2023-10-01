@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. 👋 I'm Verda and I'm 18. I'm currently a freshman at Bilkent University, majoring in computer engineering.
 
 <!--
 **verdabzk/verdabzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
